@@ -12,7 +12,7 @@ tags:
   - goals
 ---
 
-**For student developers who dream of back-end developers(https://d2.naver.com/news/3435170)** 
+**[For student developers who dream of back-end developers](https://d2.naver.com/news/3435170)** 
 
 The goal for this year is to post the list-up here after studying it.
 
