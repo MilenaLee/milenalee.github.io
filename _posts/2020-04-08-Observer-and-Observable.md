@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Angular] Observer-and-Observable"
-subtitle: ''
+subtitle: 'Self Study'
 author: "Mihyun"
 header-style: text
 tags:
