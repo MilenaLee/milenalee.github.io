@@ -16,7 +16,7 @@ tags:
 [이 레포](https://github.com/MilenaLee/study-springboot2-webservice)에 실습한 내용들을 저장하고있다ㅇ_ㅇ
 아래는 3장 공부 정리내용
 
-## JPA
+### JPA
 - 자바 표준 ORM(Object Relational Mapping) 로서 객체를 매핑한다
 - 인터페이스로서 자바 표준명세서이다. 인터페이스인 JPA를 사용하기 위해서는 구현체가 필요하다.
    - 구현체 예시: Hibernate, Eclipse Link ..
@@ -26,7 +26,8 @@ tags:
    - 1. 구현체 교체의 용이성
    - 2. 저장소 교체의 용이성
 
-## Spring 웹 계층
+### Spring 웹 계층
+![Spring 웹 계층 그림설명](https://sehun-kim.github.io/sehun/assets/images/spring-web-app-architecture.png)
 1. Web Layer
    - 뷰 템플릿 영역. 외부 요청과 등답에 대한 전반적인 영역
 2. Service Layer
