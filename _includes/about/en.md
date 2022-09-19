@@ -22,7 +22,7 @@ It is happiness to live by expanding the horizon of my life with what I learned.
 
 ### Education
 - [SungKyunKwan University](https://en.wikipedia.org/wiki/Sungkyunkwan_University) (2012 - 2017)
-   - Computer Education Bachelor of Science - BSComputer Education Bachelor of Science - BS
+   - Computer Education Bachelor of Science - BS
    - Score: 4.05/4.5
    - Coursework : Algorithm, Operating System, Computer Architecture, Computer Networks, Databases; Programming Languages.
    - Activity : Teaching Assistant of Python Programming course.
