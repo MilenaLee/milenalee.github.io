@@ -48,13 +48,13 @@ layout: default
                 </ul>
                 <hr style="visibility: hidden;">
 
-                {% if site.disqus_username %}
-                <!-- disqus 评论框 start -->
-                <div class="comment">
-                    <div id="disqus_thread" class="disqus-thread"></div>
-                </div>
-                <!-- disqus 评论框 end -->
-                {% endif %}
+                <script src="https://utteranc.es/client.js"
+                        repo="MilenaLee/milenalee.github.io"
+                        issue-term="pathname"
+                        theme="github-light"
+                        crossorigin="anonymous"
+                        async>
+                </script>
 
                 {% if site.netease_comment %}
                 <!-- 网易云跟帖 评论框 start -->
@@ -158,6 +158,7 @@ layout: default
         };
         anchors.add().remove('.intro-header h1').remove('.subheading').remove('.sidebar-container h5');
     })
+
 </script>
 <style>
     /* place left on bigger screen */
