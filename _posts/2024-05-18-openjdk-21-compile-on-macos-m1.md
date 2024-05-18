@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "openjdk@21 compile on macos M1Start My First Tech Blog"
-subtitle: 'openjdk@21 compile'
+title: "openjdk@21 compile on macos M1"
+subtitle: 'Issues with Compiling OpenJDK on macOS M1'
 author: "Mihyun"
 header-style: text
 tags:
@@ -54,7 +54,7 @@ Build performance summary:
 ### Issues with Compiling OpenJDK on macOS M1
 - The Apple M1 chip was released in 2020, and OpenJDK received its last update in September 2021. During the compilation of OpenJDK on an M1 Mac, it became evident that the M1 architecture had not been fully addressed in the earlier versions of OpenJDK. This led to several issues during the build process.
 - `error: invalid integral value '16-DMAC_OS_X_VERSION_MIN_REQUIRED=10120' in '-mstack-alignment=16-DMAC_OS_X_VERSION_MIN_REQUIRED=10120'`
-   - https://bugs.openjdk.org/browse/JDK-8272700
-   - https://github.com/openjdk/jdk/commit/d007be0952abdc8beb7b68ebf7529a939162307b
+   - [https://bugs.openjdk.org/browse/JDK-8272700](https://bugs.openjdk.org/browse/JDK-8272700)
+   - [https://github.com/openjdk/jdk/commit/d007be0952abdc8beb7b68ebf7529a939162307b](https://github.com/openjdk/jdk/commit/d007be0952abdc8beb7b68ebf7529a939162307b)
 - `guarantee(val < (1ULL << nbits)) failed: Field too big for insn`
-   - https://github.com/graalvm/labs-openjdk-17/issues/2
+   - [https://github.com/graalvm/labs-openjdk-17/issues/2](https://github.com/graalvm/labs-openjdk-17/issues/2)
