@@ -56,7 +56,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: mmhyunlee
+# disqus_username: mmhyunlee
 
 # Netease settings
 netease_comment: false
