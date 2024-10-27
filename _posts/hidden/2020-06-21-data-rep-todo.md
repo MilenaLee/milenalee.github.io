@@ -5,11 +5,6 @@ layout: post
 author: "Hux"
 header-style: text
 published: false
-tags:
-  - 笔记
-  - 基础
-  - C
-  - C++
 ---
 
 - Endianness

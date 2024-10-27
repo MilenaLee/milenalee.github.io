@@ -13,7 +13,7 @@ tags:
 
 
 [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](https://book.naver.com/bookdb/book_detail.nhn?bid=15871738)라는 책을 공부하고 있고
-[이 레포](https://github.com/MilenaLee/study-springboot2-webservice)에 실습한 내용들을 저장하고있다ㅇ_ㅇ
+[이 레포](https://github.com/MilenaLee/study-springboot2-webservice)에 실습한 내용들을 저장하고있다.
 아래는 3장 공부 정리내용
 
 ### JPA
