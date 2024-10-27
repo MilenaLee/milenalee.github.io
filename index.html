@@ -14,7 +14,7 @@ description: "BE YOURSELF. Everyone else is already taken."
             {{ post.subtitle }}
         </h3>
         {% endif %}
-        <div class="post-content-preview">
+        <div class="post-content-preview hidden">
             {% if post.lang == 'en' %}
                 {{ post.content | strip_html | truncate:300 }}
             {% else %}
