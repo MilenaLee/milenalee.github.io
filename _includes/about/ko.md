@@ -14,10 +14,10 @@
    - (~2023) 검색 서비스 SRE 업무 
       - [Read on D2](https://d2.naver.com/helloworld/9231267)
       - [DEVIEW 2021](https://deview.kr/2021/sessions/448)
-- 소프트웨어 엔지니어 @[Samsung Electronics](https://semiconductor.samsung.com/) (2017.02 - 2020.02)
+- 소프트웨어 엔지니어 @[Samsung Electronics](https://semiconductor.samsung.com/ssd/) (2017.02 - 2020.02)
    - 사내 플랫폼 설계, 프로토타이핑 및 정식 런칭, 운영 (Python, Django on IIS 7.0)
    - 패턴 인식 기반의 머신러닝 알고리즘 개발 및 모니터링 시스템 개발 참여 (Python)
-- 학생 인턴 @[LOTTE DATA COMMUNICATION](https://www.ldcc.co.kr/en) (2016.07 - 2016.08)
+- 학생 인턴 @[LOTTE DATA COMMUNICATION](https://www.lotteinnovate.com/) (2016.07 - 2016.08)
    - 오픈소스(ChatScript)를 활용한 챗봇 프로토타입 (PHP, AWS EC2)
 
 ##### Education
