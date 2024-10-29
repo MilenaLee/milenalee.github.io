@@ -1,13 +1,11 @@
-안녕하세요. 이미현입니다.
+안녕하세요. 이미현입니다.   
 
-
-사람과 세상에 도움이 되는 사람이고 싶습니다.
-
+사람과 세상에 도움이 되는 사람이고 싶습니다.   
 개발과 엔지니어링도 저에게는 그러한 목표를 위한 하나의 멋진 창구입니다.
 
 - mmhyun.lee@gmail.com
-- https://github.com/MilenaLee
-- https://www.linkedin.com/in/mihyun-lee/
+- [https://github.com/MilenaLee](https://github.com/MilenaLee)
+- [https://www.linkedin.com/in/mihyun-lee/](https://www.linkedin.com/in/mihyun-lee/)
 
 ##### Career
 - 백엔드 개발자 @[NAVER 검색](https://en.wikipedia.org/wiki/Naver) (2020.03 -)
