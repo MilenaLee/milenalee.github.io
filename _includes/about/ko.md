@@ -8,8 +8,9 @@
 - [https://www.linkedin.com/in/mihyun-lee/](https://www.linkedin.com/in/mihyun-lee/)
 
 ##### Career
-- 백엔드 개발자 @[NAVER 검색](https://en.wikipedia.org/wiki/Naver) (2020.03 -)
-   - 2024년 1월부터 육아휴직 중입니다 👶
+- 백엔드 개발자 @[NAVER](https://en.wikipedia.org/wiki/Naver) (2020.03 -)
+   - 현재 테크 플랫폼 Metric Observability 업무중
+   - 2024년 1월 ~ 2025년 10월 육아휴직 👶
    - 사내 알람 시스템 개발 및 운영 (Java/Spring Boot, Vue3, VictoriaMetrics)
    - (~2023) 검색 서비스 SRE 업무 
       - [Read on D2](https://d2.naver.com/helloworld/9231267)
