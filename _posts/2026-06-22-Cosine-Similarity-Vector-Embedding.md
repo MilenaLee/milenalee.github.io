@@ -29,6 +29,7 @@ tags:
 - -1  : 완전히 반대 방향 → 정반대 경향
 
 > - 참고: https://phet.colorado.edu/sims/html/trig-tour/latest/trig-tour_all.html?locale=ko
+
 ---
 
 ## 2. 순수 파이썬으로 코사인 유사도 구현
