@@ -28,7 +28,7 @@ tags:
 - 0   : 직각(orthogonal) → 관련성 없음에 가깝다
 - -1  : 완전히 반대 방향 → 정반대 경향
 
-> - 참고: https://phet.colorado.edu/sims/html/trig-tour/latest/trig-tour_all.html?locale=ko
+> - 참고: [삼각함수 시뮬레이션](https://phet.colorado.edu/sims/html/trig-tour/latest/trig-tour_all.html?locale=ko)
 
 ---
 
