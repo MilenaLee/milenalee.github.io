@@ -11,11 +11,12 @@ It is happiness to live by expanding the horizon of my life with what I learned.
 
 ##### Career
 - Software Engineer @[NAVER Corp](https://en.wikipedia.org/wiki/Naver) (2020.03 -)
-   - Site reliability engineering of NAVER search service 
+   - NAVER Tech Platform Metric observability (2026~)
+   - Site reliability engineering of NAVER search service (~2025)
    - DevOps of in-house systems for managing search service machines and cost
 - Software Engineer @[Samsung Electronics](https://semiconductor.samsung.com/) (2017.02 - 2020.02)
    - 2018~2020: Led development of software system using Python, Django on IIS 7.0.
-   - 2017~2018: Developed machine learning algorithm based on pattern recognition and implemented monitoring system. Python.2018~2020: Led development of software system using Python, Django on IIS 7.0. 2017~2018: Developed machine learning algorithm based on pattern recognition and implemented monitoring system. Python.
+   - 2017\~2018: Developed machine learning algorithm based on pattern recognition and implemented monitoring system. Python.2018\~2020: Led development of software system using Python, Django on IIS 7.0. 2017~2018: Developed machine learning algorithm based on pattern recognition and implemented monitoring system. Python.
 - Student Intern @[LOTTE DATA COMMUNICATION](https://www.ldcc.co.kr/en) (2016.07 - 2016.08)
   - Designed and developed messenger chatbot using PHP, AWS EC2 and natural language open source(ChatScript)
   - Developed android app for prototyping and design database of convenience store web service. Java, Firebase and Mysql.
