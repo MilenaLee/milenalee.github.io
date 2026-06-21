@@ -20,9 +20,9 @@ tags:
 
 두 벡터 \(A, B\) 사이의 코사인 유사도:
 
-![](img/in-post/Pasted image 20260621233827.png)
+![](https://github.com/MilenaLee/milenalee.github.io/blob/a8af12685d8b87cae247a8d139d1d47a1e2a3ad7/img/in-post/Pasted%20image%2020260621233827.png?raw=true)
 
-![](img/in-post/Pasted image 20260621233841.png)
+![](https://github.com/MilenaLee/milenalee.github.io/blob/a8af12685d8b87cae247a8d139d1d47a1e2a3ad7/img/in-post/Pasted%20image%2020260621233841.png?raw=true)
 
 값 해석:
 
@@ -30,7 +30,7 @@ tags:
 - 0   : 직각(orthogonal) → 관련성 없음에 가깝다
 - -1  : 완전히 반대 방향 → 정반대 경향
 
-- 참고: https://phet.colorado.edu/sims/html/trig-tour/latest/trig-tour_all.html?locale=ko
+> - 참고: https://phet.colorado.edu/sims/html/trig-tour/latest/trig-tour_all.html?locale=ko
 ---
 
 ## 2. 순수 파이썬으로 코사인 유사도 구현
